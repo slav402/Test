@@ -7,4 +7,8 @@ It is nice! :)
 
 Now we see!
 
+<<<<<<< HEAD
 I make conflict :)
+=======
+Testing colisions!
+>>>>>>> 2444064b43ec5be3160c96c37c22b8974aef5d9e
